@@ -1,4 +1,4 @@
 cb-answers
 ==========
 
-Testing my skills which coderbyte.com challenges
+Testing my skills with coderbyte.com challenges
